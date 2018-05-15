@@ -1,0 +1,1 @@
+* */1 * * * root /etc/cron.d/bitbucket-backup.sh >> /var/log/bitbucket-backup.log 2>&1
